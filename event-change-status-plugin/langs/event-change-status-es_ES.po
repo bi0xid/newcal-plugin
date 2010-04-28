@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-13 12:20+0100\n"
+"PO-Revision-Date: 2009-03-13 12:20+0100\n"
+"Last-Translator: Alejandro Carravedo <acarravedo@blogestudio.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: be-commentstatus-mail.php:37
+#, php-format
+msgid "COMMENT UNAPPROVED on your post #%1$s \"%2$s\""
+msgstr "COMENTARIO RECHAZADO en tu entrada #%1$s \"%2$s\""
+
+#: be-commentstatus-mail.php:38
+#: be-commentstatus-mail.php:52
+#, php-format
+msgid "Author : %1$s (IP: %2$s , %3$s)"
+msgstr "Autor : %1$s (IP: %2$s , %3$s)"
+
+#: be-commentstatus-mail.php:39
+#: be-commentstatus-mail.php:53
+#, php-format
+msgid "E-mail : %s"
+msgstr "Correo Electrónico : %s"
+
+#: be-commentstatus-mail.php:40
+#: be-commentstatus-mail.php:54
+#, php-format
+msgid "URL    : %s"
+msgstr "Enlace : %s"
+
+#: be-commentstatus-mail.php:41
+#: be-commentstatus-mail.php:55
+#, php-format
+msgid "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
+msgstr "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
+
+#: be-commentstatus-mail.php:42
+#: be-commentstatus-mail.php:57
+msgid "You can see all comments on this post here: "
+msgstr "Puedes ver todos los comentarios de esta entrada aquí:"
+
+#: be-commentstatus-mail.php:45
+#, php-format
+msgid "Approve it: %s"
+msgstr "Aprobarlo: %s"
+
+#: be-commentstatus-mail.php:47
+#, php-format
+msgid "[%1$s] Comment Unapproved: \"%2$s\""
+msgstr "[%1$s] Comentario Rechazado: \"%2$s\""
+
+#: be-commentstatus-mail.php:51
+#, php-format
+msgid "COMMENT APPROVED on your post #%1$s \"%2$s\""
+msgstr "COMENTARIO APROBADO en tu entrada #%1$s \"%2$s\""
+
+#: be-commentstatus-mail.php:56
+msgid "Comment: "
+msgstr "Comentario:"
+
+#: be-commentstatus-mail.php:60
+#, php-format
+msgid "Unapprove it: %s"
+msgstr "Rechazarlo: %s"
+
+#: be-commentstatus-mail.php:62
+#, php-format
+msgid "[%1$s] Comment Approved: \"%2$s\""
+msgstr "[%1$s] Comentario Aprobado: \"%2$s\""
+
+#: be-commentstatus.php:76
+#: be-commentstatus.php:89
+msgid "Change Comment Status"
+msgstr "Cambiar Estado de los Comentarios por Correo"
+
+#: be-commentstatus.php:93
+msgid "Send messages to this e-mails"
+msgstr "Enviar los mensajes a estos correos"
+
+#: be-commentstatus-check.php:66
+msgid "Hi!?!"
+msgstr "¡¿¡Hola!?!"
+
+#: be-commentstatus-check.php:81
+msgid "The comment has been approved."
+msgstr "El comentario ha sido aprobado."
+
+#: be-commentstatus-check.php:96
+msgid "The comment has been unapproved."
+msgstr "El comentario ha sido rechazado."
+
+#: be-commentstatus-check.php:115
+msgid "The comment has been yet visited, previosly?! ;-)"
+msgstr "El comentario ya ha sido visitado, ¿¡¿Anteriormente?!? ;-)"
+
+#~ msgid "[%1$s] Comment Rejected: \"%2$s\""
+#~ msgstr "[%1$s] Comentario Rechazado: \"%2$s\""
+#~ msgid "New comment on your post #%1$s \"%2$s\""
+#~ msgstr "Nuevo comentario en tu entrada #%1$s \"%2$s\""
+#~ msgid "Comentario Rechazado"
+#~ msgstr "El Comentario ha sido rechazado."
+
